@@ -1,4 +1,4 @@
-package assuntos.estruturaDeRepeticao;
+package assuntos.logicaDeProgramacao.estruturaDeRepeticao;
 
 public class whileDowhileFor {
     public static void main(String[] args) {

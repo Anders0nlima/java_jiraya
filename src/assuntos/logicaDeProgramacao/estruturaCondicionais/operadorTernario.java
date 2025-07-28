@@ -1,4 +1,4 @@
-package assuntos.estruturaCondicionais;
+package assuntos.logicaDeProgramacao.estruturaCondicionais;
 
 public class operadorTernario {
     public static void main(String[] args) {

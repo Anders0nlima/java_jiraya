@@ -1,4 +1,4 @@
-package assuntos.estruturaDeRepeticao;
+package assuntos.logicaDeProgramacao.estruturaDeRepeticao;
 
 public class exercicio1 {
     public static void main(String[] args) {

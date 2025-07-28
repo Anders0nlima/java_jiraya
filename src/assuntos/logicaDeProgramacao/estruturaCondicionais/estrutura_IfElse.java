@@ -1,4 +1,4 @@
-package assuntos.estruturaCondicionais;
+package assuntos.logicaDeProgramacao.estruturaCondicionais;
 
 public class estrutura_IfElse {
     public static void main(String[] args) {

@@ -1,9 +1,9 @@
-package assuntos.estruturaCondicionais;
+package assuntos.logicaDeProgramacao.estruturaCondicionais;
 
-public class exercicio2 {
+public class estruturaSwitch {
     public static void main(String[] args) {
-        int dia = 7;
-
+        // 1 -> domingo
+        byte dia = 9;
         switch (dia){
             case 1:
                 System.out.println("domingo");
@@ -28,12 +28,6 @@ public class exercicio2 {
                 break;
             default:
                 System.out.println("opção invalida");
-        }
-
-        if(dia == 1 || dia == 7){
-            System.out.println("final de semana");
-        } else{
-            System.out.println("dia util");
         }
     }
 }
